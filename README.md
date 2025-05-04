@@ -61,3 +61,5 @@ The Brother MFC-L2710DN is a reliable multifunction printer offering printing, s
 
 ### Conclusion
 With these steps, the Brother MFC-L2710DN works seamlessly on Ubuntu for printing, scanning, and faxing. While it lacks an address book for faxing, manual entry or text files work as a workaround. Enjoy this Linux-friendly device!
+
+[German Version](Howto_de.md)
